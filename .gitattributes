@@ -1,2 +1,4 @@
+# These files were detected as C++ by github incorrectly.
+# Manual override to display the C language tag
 *.c linguist-language=C
 *.h linguist-language=C
